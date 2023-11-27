@@ -75,6 +75,7 @@ public class DatabaseInitializer
             System.out.println("connected to database");
 
             initializeDatabase();
+            Users.addUser(connect,"test name", "test username", "test password");
             System.out.println("all tables created successfully");
         }
         catch (Exception e)

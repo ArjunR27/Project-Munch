@@ -29,5 +29,15 @@
       </library>
     </orderEntry>
     <orderEntry type="library" name="javafx-sdk-21.0" level="application" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/Downloads/mysql-connector-j-8.2.0" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$USER_HOME$/Downloads/mysql-connector-j-8.2.0" recursive="false" />
+      </library>
+    </orderEntry>
   </component>
 </module>
