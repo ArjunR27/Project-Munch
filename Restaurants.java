@@ -1,4 +1,5 @@
 import java.sql.*;
+
 public class Restaurants
 {
     public static void addRestaurant(Connection con, String name, String location) throws SQLException
